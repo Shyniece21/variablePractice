@@ -10,3 +10,9 @@ var age = 40
 
 var currentYear = 2022
 
+var depositPaid = false
+
+var addressEntered = true
+
+var coffeeMade = true
+
