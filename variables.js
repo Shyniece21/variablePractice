@@ -16,3 +16,16 @@ var addressEntered = true
 
 var coffeeMade = true
 
+age = 50
+
+depositPaid = true
+
+statement = "You got this!"
+
+console.log(age)
+
+
+console.log(depositPaid)
+
+console.log(statement)
+
