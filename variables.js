@@ -29,3 +29,5 @@ console.log(depositPaid)
 
 console.log(statement)
 
+dob = 04281982
+
